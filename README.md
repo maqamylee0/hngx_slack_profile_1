@@ -22,7 +22,8 @@ Create a mobile application that prominently features your Slack identity, incor
    git clone https://github.com/maqamylee0/hngx_1_slack_profile.git
  ```
 2. Get dependencies.
-    - the launcherUrl package to open the webbrowser in the app!
+    - the url_launcher package to open the link in the broswer!
+    - the flutter_inappview package to open browser within the app.
 ```
 flutter pub get
 ```
