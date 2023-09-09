@@ -13,8 +13,8 @@ Create a mobile application that prominently features your Slack identity, incor
 3. Open GitHub Button: Add a button labeled “Open GitHub” to the main screen. When pressed, it should correctly redirect users to your GitHub profile using a WebView component within the application.
 
 <img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/9574bd3d-bed7-48f4-be81-265d25d42bbf" width=300 height=50%>
-<img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/6ce92aea-7796-4684-9250-3d77dd0238e4" width=300 height=50%>
-
+<!-- <img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/6ce92aea-7796-4684-9250-3d77dd0238e4" width=300 height=50%> -->
+<img src="https://github.com/maqamylee0/hngx_slack_profile_1/assets/57020210/73febd27-588c-451f-b54a-9fb2ce36fe1c" width=300 height=50%>
 
 ## To get started
 1. Clone the app
@@ -22,8 +22,7 @@ Create a mobile application that prominently features your Slack identity, incor
    git clone https://github.com/maqamylee0/hngx_1_slack_profile.git
  ```
 2. Get dependencies.
-    - the launcherUrl package to open the webbrowser in the a!
-    - [Screenshot 2023-09-09 at 16.04.34.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fdp%2Ffy_6q4jd65s3867rb7ddx25m0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_j55TrB%2FScreenshot%202023-09-09%20at%2016.04.34.png)pp
+    - the launcherUrl package to open the webbrowser in the app!
 ```
 flutter pub get
 ```
