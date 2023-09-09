@@ -32,5 +32,5 @@ flutter run
 ```
 Link to appetize app
 ```
-https://appetize.io/app/35zg3mzs55p2vb2gie6asy7tsi?device=pixel7&osVersion=13.0&scale=75&proxy=intercept
+https://appetize.io/app/fdflscodmpu5myujr3ds6g5cfu?device=pixel7&osVersion=13.0&scale=75&proxy=intercept
 ```
