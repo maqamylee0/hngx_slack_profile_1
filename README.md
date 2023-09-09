@@ -23,7 +23,7 @@ Create a mobile application that prominently features your Slack identity, incor
  ```
 2. Get dependencies.
     - the url_launcher package to open the link in the broswer!
-    - the flutter_inappview package to open browser within the app.
+    - the flutter_inappwebview package to open browser within the app.
 ```
 flutter pub get
 ```
