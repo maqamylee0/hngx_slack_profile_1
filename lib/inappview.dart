@@ -27,6 +27,9 @@ class _InAppWebViewPageState extends State<InAppWebViewPage> {
 
       },
       child: Scaffold(
+        appBar: AppBar(
+          title: Text("Slack Profile"),
+        ),
         body: Stack(
           children: [
             InAppWebView(
