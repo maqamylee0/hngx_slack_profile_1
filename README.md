@@ -13,8 +13,8 @@ Create a mobile application that prominently features your Slack identity, incor
 3. Open GitHub Button: Add a button labeled “Open GitHub” to the main screen. When pressed, it should correctly redirect users to your GitHub profile using a WebView component within the application.
 
 <img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/9574bd3d-bed7-48f4-be81-265d25d42bbf" width=300 height=50%>
-<img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/6ce92aea-7796-4684-9250-3d77dd0238e4" width=300 height=50%>
-
+<!-- <img src="https://github.com/maqamylee0/hngx_1_slack_profile/assets/57020210/6ce92aea-7796-4684-9250-3d77dd0238e4" width=300 height=50%> -->
+<img src="https://github.com/maqamylee0/hngx_slack_profile_1/assets/57020210/73febd27-588c-451f-b54a-9fb2ce36fe1c" width=300 height=50%>
 
 ## To get started
 1. Clone the app
